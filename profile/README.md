@@ -2,4 +2,6 @@
 
 Globally scale to thousands of nodes, rapidly iterate, and deploy with confidence.
 
-![Private cloud management, simplified.](https://github.com/PextraCloud/.github/blob/master/banner.png)
+<a href="https://pextra.cloud/cloudenvironment">
+    <img src="https://github.com/PextraCloud/.github/blob/master/banner.png" alt="Private cloud management, simplified.">
+</a>
